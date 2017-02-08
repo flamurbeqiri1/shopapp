@@ -1,3 +1,3 @@
 # shopapp
 
-#### simple shop app, more details contact me
+#### simple e-commerce app, REST API, more details contact me
