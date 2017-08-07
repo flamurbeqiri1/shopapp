@@ -2,4 +2,4 @@
 
 #### simple e-commerce app, REST API, more details contact me
 
-![Swipe Screen](https://www.dropbox.com/s/tukirei13ysautw/Simulator%20Screen%20Shot%20Jun%2023%2C%202016%2C%204.15.49%20PM.png?dl=0)
+![Swipe Screen](https://raw.githubusercontent.com/flamurbeqiri1/shopapp/459e3ae801a1d3e159b0fce48a60ed873968ec6a/Simulator%20Screen%20Shot%20Jun%2023%2C%202016%2C%204.14.28%20PM.png)
